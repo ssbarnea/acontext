@@ -1,0 +1,4 @@
+- hosts: localhost
+  tasks:
+    - a_missing_module:
+        foo: bar
